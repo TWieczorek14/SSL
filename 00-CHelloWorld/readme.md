@@ -3,9 +3,9 @@
 # Legajo: 222.791-5
 
 
-# Compilador seleccionado:
+### Compilador seleccionado:
 
-# Version del Compilador:
+### Version del Compilador:
 
-# Version de C que compila:
+### Version de C que compila:
 
